@@ -4,8 +4,7 @@ Many people want to leave popular social networks but are concerned leaving woul
 Design a maximum of 2-4 screens for either web or mobile, providing as much background thinking as you can.
 
 ```
-Important: You can assume you have an AI Platform 
-that will help you to facilitate some workflows, 
+Important: You can assume you have an AI Platform that will help you to facilitate some workflows, 
 make smart recommendations, etc.
 ```
 
