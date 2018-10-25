@@ -11,10 +11,10 @@ make smart recommendations, etc.
 # Event Creator or Event Attendee?
 You can decide whether you would like to design the event creator or event attendee experience and design the ideal workflow, in particular demonstrating your understanding of what information is important for these events, and how people might find them
 
-### Importante characteristics of an event:
+### Important characteristics of an event:
 * Where is it?
 * How much does it cost?
-* What itme should I leave to arrive on time?
+* What time should I leave to arrive on time?
 * What's the best way to get there?
 * What should I know prior to the event?
 
