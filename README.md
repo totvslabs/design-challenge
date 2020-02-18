@@ -1,7 +1,7 @@
 # TOTVS Labs Design Challenge
 Many people want to leave popular social networks but are concerned leaving would mean no longer being notified about local events. Imagine an experience which allowed users to create, share, attend, or be notified about certain events. Keep in mind that people may have different tastes or some events may not be of interest to them, and that the creator may be a business.
 
-Design a maximum of 2-4 screens for either web or mobile, providing as much background thinking as you can.
+Design a maximum of 2-4 screens for web (desktop) application, providing as much background thinking as you can.
 
 ```
 Important: You can assume you have an AI Platform that will help you to facilitate some workflows, 
@@ -31,11 +31,11 @@ The application could include:
 
 # Priorities
 * Good usability
-* Appropriate aesthetics for the demographic, tone, mobile/touch paradigms, etc
+* Appropriate aesthetics for the demographic, tone, web app paradigms, etc
 * Insight into your process, including any sketches, brainstorms, notes, wireframes, and assumptions on the product.
 
 # Design challenge submission
-Please submit your design challenge to nicki.kollehner@totvs.com.
+Please submit your design challenge to varun.dhital@totvs.com.
 
 # Credits
 This design challenge was first created by:
