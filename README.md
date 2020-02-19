@@ -35,7 +35,7 @@ The application could include:
 * Insight into your process, including any sketches, brainstorms, notes, wireframes, and assumptions on the product.
 
 # Design challenge submission
-Please submit your design challenge to varun.dhital@totvs.com.
+Please submit your design challenge to jobs@totvslabs.com.
 
 # Credits
 This design challenge was first created by:
